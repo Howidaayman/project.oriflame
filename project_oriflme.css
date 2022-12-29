@@ -1,0 +1,34 @@
+ p{
+   
+    font-size: 130px;
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+    background-color: goldenrod;
+    margin-top: 8px;
+    margin-bottom: 6px;
+    padding-left: 100px;
+   }
+   img{
+    width:100%;
+   margin: 0%;
+}
+form{
+    border: 3px dotted black;
+     margin-left: 30%;
+    margin-right: 30%;
+    padding-left: 180px;
+    background-color: rgb(250, 250, 185);
+}
+input[type="submit"]{
+    background-color: rgb(44, 102, 226);
+    color: white;
+ }
+
+input[type="reset"]{
+    background-color: rgb(44, 102, 226);
+    color: white;
+}
+
+
+   
+
